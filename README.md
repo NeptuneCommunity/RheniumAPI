@@ -15,8 +15,8 @@ You can get Rhenium's API from the releases tab, then adding it through a librar
 ```xml
 <dependencies>
     <dependency>
-        <groupId>org.paperspigot</groupId>
-        <artifactId>PaperSpigot</artifactId>
+        <groupId>org.neptune.rhenium</groupId>
+        <artifactId>Rhenium-API</artifactId>
         <version>1.0</version>
         <scope>system</scope>
         <systemPath>${basedir}/libs/Rhenium.jar</systemPath>
