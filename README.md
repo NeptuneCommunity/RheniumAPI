@@ -15,13 +15,11 @@ You can get Rhenium's API from the releases tab, then adding it through a librar
 ```xml
 <dependencies>
     <dependency>
-        <dependency>
-            <groupId>org.paperspigot</groupId>
-            <artifactId>PaperSpigot</artifactId>
-            <version>1.0</version>
-            <scope>system</scope>
-            <systemPath>${basedir}/libs/Rhenium.jar</systemPath>
-        </dependency>
+        <groupId>org.paperspigot</groupId>
+        <artifactId>PaperSpigot</artifactId>
+        <version>1.0</version>
+        <scope>system</scope>
+        <systemPath>${basedir}/libs/Rhenium.jar</systemPath>
     </dependency>
 </dependencies>
 ```
